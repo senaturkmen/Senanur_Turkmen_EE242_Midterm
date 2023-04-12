@@ -1,0 +1,15 @@
+senanur turkmen
+
+Asciiname= 115 + 101 + 110 + 97 + 110 + 117 + 114 = 764
+
+ASciisurname= 116 + 117 + 114 + 107 + 109 + 101 + 110 = 774
+
+ASciitotal= 764 + 774 = 1538
+
+Timernumber= (1538%14)+1 = 13
+
+ARRNUMBER= 65536-1 = 65535
+
+Duration= (774%1500)*30 = 23220
+
+LEDPINNUMBER= (1538%4)+12 = 2 + 12 = 14
